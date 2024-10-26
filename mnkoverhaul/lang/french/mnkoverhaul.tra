@@ -1,0 +1,125 @@
+@1 = ~Capacites de haut niveau du moine par Kish~
+@2 = ~Revision du poing du moine (necessite EE)~
+@3 = ~3:+1 9:+2 12:+3 15:+4 25:+5~
+@4 = ~5:+1 10:+2 15:+3 20:+4 25:+5~
+@5  = ~Coup d'ombre~
+@6 = ~Coup d'ombre
+Ce coup de pied rejette la cible en arrière, la rend inconsciente et lui inflige 4d8 points de dégâts.~
+@7 = ~Frappe du tigre~
+@8 = ~Frappe du tigre
+Ce pouvoir, une forme plus puissante du Coup d'ombre, assure que tous les coups portés au cours du prochain round seront des coups critiques. En outre, tous les coups portés au cours des deux prochains rounds repousseront la cible et la rendront inconsciente.
+Pré-requis : Coup d'ombre.~
+@9  = ~Poing draconique~
+@10 = ~Poing draconique
+En canalisant son ki, le moine devient brièvement capable d'interagir physiquement avec l'essence-même de la magie. D'un coup, le moine supprime toutes les protections magiques de la cible. Ce coup dissipe automatiquement les sorts d'Armure, Bouclier, Résistance à la terreur, Armure fantomatique, Protection contre le froid, Protection contre le feu, Protection contre les projectiles non-magiques, Bouclier de feu, Armure spirituelle, Peau de pierre, Protection contre l'acide, Protection contre l'électricité, Protection contre les armes non-magiques, Protection contre l'énergie magique, Protection contre les armes magiques, Manteau, Protection contre les éléments, Manteau amélioré, Protection contre l'énergie et Immunité absolue, ainsi que les versions clericales et naturelles de ces sorts. Cela reste cependant inefficace contre certaines créatures ayant une affinité particulière avec la magie, comme les liches ou les rakshasa. De plus, sachez que le sort d'Arrêt du temps empêche toute altération du flux magique, protégeant donc les mages des effets du Poing draconique jusqu'à la fin du sort d'Arrêt du temps.~
+@11 = ~Plus vite que la lumière~
+@12 = ~Plus vite que la lumière
+En se concentrant brièvement sur une autre zone à moins de 1200 mètres, le moine peut s'y transporter immédiatement.
+Pré-requis : Pieds du Vent.~
+@13 = ~Échanger les résistances~
+@14 = ~Échanger les résistances
+Le moine convertit sa résistance à la magie en résistance aux dégâts physiques pour un nombre de rounds égal au double de son niveau. Le moine devient également immunisé aux attaques sournoises pour la même durée.~
+@15 = ~Position Solaire~
+@16 = ~Position Solaire
+La Position Solaire rend les ennemis à proximité plus vulnérables, en réduisant de 4 les jets de sauvegarde de quiconque se trouvant à moins de 18 mètres du moine. Elle crée un nuage de particules dorées scintillantes qui emplit l'air sur six mètres autour du moine et révèle les créatures invisibles. Tous les ennemis à l'intérieur du nuage doivent réussir un jet de sauvegarde contre les sorts sous peine d'être aveuglés (-4 aux jets d'attaque, aux jets de sauvegarde et à la classe d'armure) jusqu'à la dissipation de la poussière, au bout de 4 rounds. En outre un souffle de feu émane du moine, brûlant et repoussant tout le monde dans un rayon de 9 mètres autour de lui tandis que cette Position le protège des flammes.
+Pré-requis : Frappe du tigre.~
+@17 = ~Position Lunaire~
+@18 = ~Position Lunaire
+Un moine qui prend cette Position gagne un bonus de +5 aux jets de sauvegarde contre la mort, un bonus de +2 à la chance, et devient immunisé à la Mise à Mort, l'Emprisonnement, la Pétrification, l'Absorption de niveau, la Désintégration et l'Arrêt du temps. Ce pouvoir dure 4 rounds.
+Pré-requis : Position Solaire.~
+@19 = ~Position d'Ombre~
+@20 = ~Position d'Ombre
+Cette Position rend immédiatement le moine à la fois invisible, comme par un sort d'Invisibilité majeure, et immunisé aux sorts de divination tels que Vision véritable. Ce pouvoir dure 23 rounds.
+Pré-requis : Position Lunaire.~
+@21 = ~Pieds du Vent~
+@22 = ~Pieds du Vent
+Chaque fois que cette capacité est choisie, elle augmente de façon importante et permanente la vitesse de déplacement du moine.~
+@23 = ~Coup étourdissant
+Le moine peut utiliser la capacité Coup étourdissant une fois supplémentaire par jour.~
+@24 = ~Paume tremblante
+Le moine peut utiliser la capacité Paume tremblante une fois supplémentaire par jour.~
+@25= ~Poing +1~
+@26= ~Poing +2~
+@27= ~Poing +3~
+@28= ~Poing +4~
+@29= ~Poing +5~
+@30 = ~Second souffle~
+@31 = ~Second souffle
+En se concentrant un instant, le moine peut ignorer même les pires blessures, une fois par jour. L'effet de ce pouvoir est de guérir complètement et instantanément le moine.
+Pré-requis: Échanger les résistances.~
+@32= ~MOINE : Les moines sont des guerriers qui cherchent la perfection à travers la contemplation et l'action. Ce sont des combattants polyvalents, bien entraînés au combat sans arme ni armure. Les moines ne peuvent pas lancer de sorts, mais ils ont des pouvoirs magiques uniques. Ils canalisent une énergie subtile, appelée 'Ki', qui leur permet de réaliser des exploits incroyables. Le coup le plus connu des moines est leur aptitude à assommer un adversaire en le frappant sans armes.
+
+Avantages :
+- Le moine peut effectuer 1 attaque non armée par tour ; il gagne 1/2 attaque supplémentaire tous les 3 niveaux.
+- Quand le moine gagne des niveaux, les dégâts infligés par ses poings augmentent également :
+Niveau 1-2 :  1-6
+Niveau 3-5 :  1-8
+Niveau 6-8 :  1-10
+Niveau 9-11 :  1-12
+Niveau 12-14 :  1-12
+Niveau 15+ :  1-20
+- La classe d'armure naturelle d'un moine s'améliore lorsqu'il monte en niveaux. Sa CA de départ est de 9 et baisse ensuite de 1 tous les 2 niveaux.
+- Coup étourdissant une fois par jour par tranche de 4 niveaux. 
+- Les moines peuvent dévier les projectiles. Ils bénéficient de - 1 point d'AC contre les projectiles par tranche de 3 niveaux.
+- Le moine obtient un bonus de + 2 pour les jets de sauvegarde contre les sorts.
+- Un moine commence ses déplacements à + 2, puis + 1 par tranche de 5 niveaux.
+– Niveau 3 : Le poing du moine est équivalent à une arme + 1 et gagne un bonus de +1 au toucher et aux dommages. Cet enchantement passe à +2 au niveau 9, +3 au niveau 12, +4 au niveau 15 et +5 au niveau 25.
+- Niveau 5 : Immunité contre toutes les maladies, ne peut plus être ralenti ou 'hâté'.
+- Niveau 7 : Capacité de guérison sur lui même, 2 points de vie par niveau.
+- Niveau 8 : - 1 facteur de vitesse.
+- Niveau 9 : + 1 toutes sauvegardes. Immunité contre les sorts de Charme. 
+- Niveau 11 : Immunité contre le poison.
+- Niveau 12 : - 1 facteur de vitesse.
+- Niveau 13 : Paume Tremblante 1 fois par jour.
+- Niveau 14 : Le moine gagne 3 % de résistance magique par niveau (commençant par 42% au niveau 14).
+- Niveau 20 : Immunité contre les armes non-magiques.
+- Dé de vie : D8
+- Alignement limité à Loyal.
+
+Inconvénients :
+- Le moine ne peut pas porter d'armure.
+- Un moine ne peut utiliser que les armes des voleurs (sauf armes à 2 mains).
+- Un moine peut seulement devenir compétent (une étoile) dans une catégorie d'arme.
+- Un moine peut seulement devenir compétent (une étoile) dans le style Arme a une main et ne peut pas apprendre d'autres styles de combat.
+
+COUP ÉTOURDISSANT : Toutes les attaques dans les 6 secondes suivantes obligent la victime à réussir un jet de sauvegarde contre les sorts sous peine d'être assommée. Remarque : ce talent spécial modifie automatiquement l'attaque normale d'un moine, sans avoir besoin de viser.
+
+PAUME TREMBLANTE : La prochaine attaque réussie oblige l'adversaire à réussir un jet de sauvegarde contre les sorts ou à mourir. Remarque : ce talent spécial modifie automatiquement l'attaque normale d'un moine, sans avoir besoin de viser.~
+@33= ~MOINE : Les moines sont des guerriers qui cherchent la perfection à travers la contemplation et l'action. Ce sont des combattants polyvalents, bien entraînés au combat sans arme ni armure. Les moines ne peuvent pas lancer de sorts, mais ils ont des pouvoirs magiques uniques. Ils canalisent une énergie subtile, appelée 'Ki', qui leur permet de réaliser des exploits incroyables. Le coup le plus connu des moines est leur aptitude à assommer un adversaire en le frappant sans armes.
+
+Avantages :
+- Le moine peut effectuer 1 attaque non armée par tour ; il gagne 1/2 attaque supplémentaire tous les 3 niveaux.
+- Quand le moine gagne des niveaux, les dégâts infligés par ses poings augmentent également :
+Niveau 1-2 :  1-6
+Niveau 3-5 :  1-8
+Niveau 6-8 :  1-10
+Niveau 9-11 :  1-12
+Niveau 12-14 :  1-12
+Niveau 15+ :  1-20
+- La classe d'armure naturelle d'un moine s'améliore lorsqu'il monte en niveaux. Sa CA de départ est de 9 et baisse ensuite de 1 tous les 2 niveaux.
+- Coup étourdissant une fois par jour par tranche de 4 niveaux. 
+- Les moines peuvent dévier les projectiles. Ils bénéficient de - 1 point d'AC contre les projectiles par tranche de 3 niveaux.
+- Le moine obtient un bonus de + 2 pour les jets de sauvegarde contre les sorts.
+- Un moine commence ses déplacements à + 2, puis + 1 par tranche de 5 niveaux.
+– Niveau 5 : Le poing du moine est équivalent à une arme + 1 et gagne un bonus de +1 au toucher et aux dommages. Cet enchantement augmente de +1 tous les 5 niveaux, jusqu'à un maximum de +5 au niveau 25.
+- Niveau 5 : Immunité contre toutes les maladies, ne peut plus être ralenti ou 'hâté'.
+- Niveau 7 : Capacité de guérison sur lui même, 2 points de vie par niveau.
+- Niveau 8 : - 1 facteur de vitesse.
+- Niveau 9 : + 1 toutes sauvegardes. Immunité contre les sorts de Charme. 
+- Niveau 11 : Immunité contre le poison.
+- Niveau 12 : - 1 facteur de vitesse.
+- Niveau 13 : Paume Tremblante 1 fois par jour.
+- Niveau 14 : Le moine gagne 3 % de résistance magique par niveau (commençant par 42% au niveau 14).
+- Niveau 20 : Immunité contre les armes non-magiques.
+- Dé de vie : D8
+- Alignement limité à Loyal.
+
+Inconvénients :
+- Le moine ne peut pas porter d'armure.
+- Un moine ne peut utiliser que les armes des voleurs (sauf armes à 2 mains).
+- Un moine peut seulement devenir compétent (une étoile) dans une catégorie d'arme.
+- Un moine peut seulement devenir compétent (une étoile) dans le style Arme a une main et ne peut pas apprendre d'autres styles de combat.
+
+COUP ÉTOURDISSANT : Toutes les attaques dans les 6 secondes suivantes obligent la victime à réussir un jet de sauvegarde contre les sorts sous peine d'être assommée. Remarque : ce talent spécial modifie automatiquement l'attaque normale d'un moine, sans avoir besoin de viser.
+
+PAUME TREMBLANTE : La prochaine attaque réussie oblige l'adversaire à réussir un jet de sauvegarde contre les sorts ou à mourir. Remarque : ce talent spécial modifie automatiquement l'attaque normale d'un moine, sans avoir besoin de viser.~
